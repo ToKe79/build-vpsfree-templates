@@ -36,6 +36,7 @@ PKGS="
 aaa_base
 aaa_elflibs
 aaa_terminfo
+apache
 attr
 bash
 bin
